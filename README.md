@@ -1,6 +1,6 @@
 This repository contains ongoing projects for Udacity's Data Analyst Nanodegree Program.
 
-Projects:
+Projects:                                                                                                                                 
 P1 - Test a Perceptual Phenomenon Using Statistics                                                                                         
 P2 - Analyzing the NYC Subway Dataset Using Machine Learing                                                                               
 P3 - Data Wrangling with MongoDB																																																					
